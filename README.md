@@ -1,4 +1,4 @@
 # UcMercedNoiseDataset
 
-Noisy Label Version of dataset UcMerced
+Noisy Multi-Label Version of dataset UcMerced
 
